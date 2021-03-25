@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abcd5eba-748b-4070-85ec-b79a1b24d926" name="Default Changelist" comment="界面整合完毕">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BattleTank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BattleTank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BattleTank/META-INF/BattleTank.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BattleTank/img/EnemiesNoArmored1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/AssignmentFile/临时任务——晚上出去散步.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/AssignmentFile/周期任务——LOL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/AssignmentFile/长期任务——完成画.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/AssignmentListFile/java课设.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/AssignmentListFile/其他.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/文档.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/AToDoList/用例图.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/META-INF/src.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/EnemiesNoArmored1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/EnemiesNoArmored.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy1down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy1left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy1right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy1up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy2down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy2left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy2right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy2up.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy3down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy3left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy3right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/enemies/enemy3up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/brickwall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/grass.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/home.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/ice.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/ironwall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/map/river.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player1down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player1left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player1right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player1up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player2down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player2left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player2right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/players/Player2up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/Escenario.GIF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/prop1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/prop2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/prop3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/prop4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/props/prop5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/img/start/pres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/map/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/map/.idea/map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/map/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/map/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/map/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/EnemiesNoArmored1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/GameMapUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/GameMapUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/MainMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MainMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/MapUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MapUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/ScreenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/ScreenSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/StartGameUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/StartGameUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tank/EnemyTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tank/EnemyTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tank/PlayerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tank/PlayerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tank/PlayerTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tank/PlayerTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tank/PlayerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tank/PlayerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tank/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tank/Tank.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="王粟鹏" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TgCsOKuWiVkYLaiDqyeGJ0QgA9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="map" />
+      <recent name="element" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\life\Desktop\TankBattle-wsp-ef48cebfc9262c31539d4fa5ce15417b850d28c8\BattleTank\src\img\start" />
+      <recent name="C:\Users\life\Desktop\TankBattle-wsp-ef48cebfc9262c31539d4fa5ce15417b850d28c8\BattleTank\src\img" />
+      <recent name="C:\Users\life\Desktop\TankBattle-wsp-ef48cebfc9262c31539d4fa5ce15417b850d28c8\BattleTank\src\map" />
+      <recent name="E:\学习\坦克大战之重写\TankBattle-wsp-ef48cebfc9262c31539d4fa5ce15417b850d28c8\BattleTank\src\img\enemies" />
+      <recent name="D:\BattleTank\src\music" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartGameUI">
+    <configuration name="DoublePlayersUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.DoublePlayersUI" />
+      <module name="BattleTank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MP3Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.MP3Player" />
+      <module name="BattleTank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartGameUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.StartGameUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartGameUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.StartGameUI" />
+      <module name="BattleTank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.Try" />
+      <module name="BattleTank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGameUI" />
+        <item itemvalue="Application.StartGameUI (1)" />
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.MP3Player" />
+        <item itemvalue="Application.DoublePlayersUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abcd5eba-748b-4070-85ec-b79a1b24d926" name="Default Changelist" comment="" />
+      <created>1573872557416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573872557416</updated>
+      <workItem from="1573872723051" duration="2690000" />
+      <workItem from="1574263039432" duration="142000" />
+      <workItem from="1574297348532" duration="14000" />
+      <workItem from="1574321330087" duration="271000" />
+      <workItem from="1574321756247" duration="85000" />
+      <workItem from="1574322074211" duration="182000" />
+      <workItem from="1574395505958" duration="1221000" />
+      <workItem from="1574408885924" duration="7525000" />
+      <workItem from="1574430587154" duration="811000" />
+      <workItem from="1574432190529" duration="7252000" />
+      <workItem from="1574472048378" duration="27000" />
+      <workItem from="1574473474845" duration="14252000" />
+      <workItem from="1574489730427" duration="308000" />
+      <workItem from="1574490102186" duration="17000" />
+      <workItem from="1574490192528" duration="65000" />
+      <workItem from="1574513390776" duration="11267000" />
+      <workItem from="1574588063930" duration="17825000" />
+      <workItem from="1574693335945" duration="2136000" />
+      <workItem from="1574696414890" duration="2599000" />
+      <workItem from="1574699076004" duration="9000" />
+      <workItem from="1574756999342" duration="433000" />
+      <workItem from="1574757563622" duration="3733000" />
+      <workItem from="1574761419615" duration="1002000" />
+      <workItem from="1574766516703" duration="7058000" />
+      <workItem from="1574776139657" duration="13000" />
+      <workItem from="1574776242295" duration="82000" />
+      <workItem from="1574776376903" duration="33000" />
+      <workItem from="1574777198324" duration="583000" />
+      <workItem from="1574777919603" duration="25000" />
+      <workItem from="1574779955872" duration="54000" />
+      <workItem from="1574780249090" duration="864000" />
+      <workItem from="1574828891412" duration="672000" />
+      <workItem from="1574829621252" duration="627000" />
+      <workItem from="1574830385623" duration="47000" />
+      <workItem from="1574850463869" duration="9360000" />
+      <workItem from="1574900503382" duration="3022000" />
+      <workItem from="1574910565221" duration="1801000" />
+      <workItem from="1574914420469" duration="3057000" />
+      <workItem from="1574929288584" duration="978000" />
+      <workItem from="1574930359118" duration="17000" />
+      <workItem from="1574951757817" duration="1402000" />
+      <workItem from="1575177158826" duration="137000" />
+      <workItem from="1575177320359" duration="75000" />
+      <workItem from="1575290422432" duration="613000" />
+      <workItem from="1576109223312" duration="579000" />
+      <workItem from="1576110002252" duration="8996000" />
+      <workItem from="1576123604926" duration="262000" />
+      <workItem from="1576135587449" duration="3013000" />
+      <workItem from="1576138635863" duration="45000" />
+      <workItem from="1576153745412" duration="10917000" />
+      <workItem from="1576166554663" duration="168000" />
+      <workItem from="1576166743950" duration="61000" />
+      <workItem from="1576215788804" duration="2306000" />
+      <workItem from="1576219392287" duration="6790000" />
+      <workItem from="1576226956120" duration="347000" />
+      <workItem from="1576227321194" duration="100000" />
+      <workItem from="1576240681523" duration="1165000" />
+      <workItem from="1576241903702" duration="94000" />
+      <workItem from="1576242127646" duration="6000" />
+      <workItem from="1615429254595" duration="200000" />
+      <workItem from="1615429545444" duration="28000" />
+      <workItem from="1616638809793" duration="246000" />
+    </task>
+    <task id="LOCAL-00001" summary="界面整合完毕">
+      <created>1576123669023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576123669023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本整合完毕" />
+    <MESSAGE value="界面整合完毕" />
+    <option name="LAST_COMMIT_MESSAGE" value="界面整合完毕" />
+  </component>
+</project>
